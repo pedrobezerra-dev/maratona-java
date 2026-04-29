@@ -1,0 +1,18 @@
+package study.introducao;
+
+public class Aula001OlaMundo {
+    public static void main(String[] args) {
+        System.out.print("Olá, Mundo!");
+
+        //comentários
+
+        /*
+        Comentários
+         */
+
+        /**
+         * Comentários
+         *
+         */
+    }
+}
